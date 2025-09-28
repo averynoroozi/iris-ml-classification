@@ -1,6 +1,6 @@
 # Iris Classification Project 🌸
 
-A simple supervised learning project using the Iris dataset.  
+A supervised learning project using the Iris dataset.  
 Models implemented: Logistic Regression, Decision Tree.  
 
 ## Results
